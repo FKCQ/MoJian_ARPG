@@ -1,0 +1,204 @@
+8
+
+dir
+313
+http://localhost:8080/svn/allUnity/Assets/AllUIs/NGUI/Examples
+http://localhost:8080/svn/allUnity
+
+
+
+2015-01-20T06:16:15.492111Z
+188
+liyong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6c58ca4b-5727-489a-bf76-2f168ee0ce50
+
+Animations
+dir
+
+Animations.meta
+file
+
+
+
+
+2015-02-26T06:44:56.833000Z
+6c2ed332cab066e0b9e63aaabc0b6720
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Atlases
+dir
+
+Atlases.meta
+file
+
+
+
+
+2015-02-26T06:44:56.833000Z
+c3667d9077a97fbbf01e798a56062974
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Materials
+dir
+
+Materials.meta
+file
+
+
+
+
+2015-02-26T06:44:56.815000Z
+d188e654e66bda0cf25268d55130a282
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Models
+dir
+
+Models.meta
+file
+
+
+
+
+2015-02-26T06:44:56.833000Z
+c56356fbce188baeb28d47318603bc13
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Other
+dir
+
+Other.meta
+file
+
+
+
+
+2015-02-26T06:44:56.815000Z
+93f0000dc4ea6162810f802f43773903
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Resources
+dir
+
+Resources.meta
+file
+
+
+
+
+2015-02-26T06:44:56.848000Z
+10b7e280113be998b6436e48d07fe7f9
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Scenes
+dir
+
+Scenes.meta
+file
+
+
+
+
+2015-02-26T06:44:56.848000Z
+a28f90d1638a8bd1aa9a633f32f7b7ce
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Scripts
+dir
+
+Scripts.meta
+file
+
+
+
+
+2015-02-26T06:44:56.833000Z
+bd8ca3bc3babf2d09faf77121803bc8b
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Shaders
+dir
+
+Shaders.meta
+file
+
+
+
+
+2015-02-26T06:44:56.833000Z
+d8b90613062aa8fa7c58c2632a9a5b0a
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Sounds
+dir
+
+Sounds.meta
+file
+
+
+
+
+2015-02-26T06:44:56.848000Z
+f6f29d9b70051d19a1588c90a8884ad9
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Textures
+dir
+
+Textures.meta
+file
+
+
+
+
+2015-02-26T06:44:56.815000Z
+fb4bc5bc7e2d75ce32fba64879c348a7
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+

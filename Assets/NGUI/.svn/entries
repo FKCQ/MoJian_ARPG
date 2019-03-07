@@ -1,0 +1,118 @@
+8
+
+dir
+313
+http://localhost:8080/svn/allUnity/Assets/AllUIs/NGUI
+http://localhost:8080/svn/allUnity
+
+
+
+2015-01-20T06:16:15.492111Z
+188
+liyong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6c58ca4b-5727-489a-bf76-2f168ee0ce50
+
+Editor
+dir
+
+Editor.meta
+file
+
+
+
+
+2015-02-26T06:45:05.550000Z
+4de16ba726721639328d1d68f2f4786c
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Examples
+dir
+
+Examples.meta
+file
+
+
+
+
+2015-02-26T06:45:05.569000Z
+28bcd232060fd9276f298ecf13e43a33
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+ReadMe - 3.7.0.txt
+file
+
+
+
+
+2015-02-26T06:45:05.550000Z
+a2a0c0324fbf9a5e88c197aac571adc7
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+ReadMe - 3.7.0.txt.meta
+file
+
+
+
+
+2015-02-26T06:45:05.571000Z
+e6831641edb12a48eb6e5a813b705c19
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Resources
+dir
+
+Resources.meta
+file
+
+
+
+
+2015-02-26T06:45:05.566000Z
+a55f6b5d5b2e01022bf9693c87e8c35d
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Scripts
+dir
+
+Scripts.meta
+file
+
+
+
+
+2015-02-26T06:45:05.550000Z
+2a98f534a6d80a55f6177b03127be144
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+

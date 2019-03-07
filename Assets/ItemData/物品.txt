@@ -1,0 +1,12 @@
+﻿1001|生锈的铁剑|普通|14101|Equipment|Weapon|100||||
+1002|生锈的盔甲|普通|14103|Equipment|Clothes|110||||
+1003|生锈的头盔|普通|14102|Equipment|Helmet|110||||
+1004|破旧的鞋子|普通|14104|Equipment|Shoes|50||||
+1005|白银项链|稀有|14105|Equipment|Necklace|150||||
+1006|白银戒指|稀有|14106|Equipment|Ring|200||||
+1007|水晶剑|史诗|24101|Equipment|Weapon|250||||
+1008|白银头盔|稀有|24102|Equipment|Helmet|200||||
+1009|白银盔甲|稀有|24103|Equipment|Clothes|250||||
+1010|白银鞋子|稀有|24103|Equipment|Shoes|150||||
+1011|水晶项链|史诗|24103|Equipment|Necklace|250||||
+1012|水晶戒指|史诗|24103|Equipment|Ring|350||||

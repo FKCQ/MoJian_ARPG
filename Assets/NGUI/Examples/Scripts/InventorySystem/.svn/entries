@@ -1,0 +1,76 @@
+8
+
+dir
+313
+http://localhost:8080/svn/allUnity/Assets/AllUIs/NGUI/Examples/Scripts/InventorySystem
+http://localhost:8080/svn/allUnity
+
+
+
+2015-01-20T06:16:15.492111Z
+188
+liyong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6c58ca4b-5727-489a-bf76-2f168ee0ce50
+
+Editor
+dir
+
+Editor.meta
+file
+
+
+
+
+2015-02-26T06:44:51.532000Z
+5c77ddac24049c0750ad282a76a8ece4
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Game
+dir
+
+Game.meta
+file
+
+
+
+
+2015-02-26T06:44:51.532000Z
+b207e545c4c8e85613d212e6919f3c2f
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+System
+dir
+
+System.meta
+file
+
+
+
+
+2015-02-26T06:44:51.530000Z
+92c8526e01c33da2e321e971c2de5816
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+

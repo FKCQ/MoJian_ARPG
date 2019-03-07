@@ -1,0 +1,496 @@
+8
+
+dir
+313
+http://localhost:8080/svn/allUnity/Assets/AllUIs/NGUI/Editor/Preview
+http://localhost:8080/svn/allUnity
+
+
+
+2015-01-20T06:16:15.492111Z
+188
+liyong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6c58ca4b-5727-489a-bf76-2f168ee0ce50
+
+Control - Background.png
+file
+
+
+
+
+2015-02-26T06:44:57.218000Z
+67190538f39e3f7d9288395c257d578a
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Background.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.172000Z
+158e85f20ccb877ad204b0e81e8caddf
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Colored Button.png
+file
+
+
+
+
+2015-02-26T06:44:57.224000Z
+58ca3e43dd3fbf92cdb991603b9e054a
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Colored Button.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.177000Z
+9c0b3251045893e7ace75d0d69261d7d
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Colored Checkbox.png
+file
+
+
+
+
+2015-02-26T06:44:57.296000Z
+d2144eee13740eb272b46877dfce01e8
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Colored Checkbox.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.329000Z
+212592053ce373eb188eab9b4ebee260
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Colored Horizontal Scroll Bar.png
+file
+
+
+
+
+2015-02-26T06:44:57.296000Z
+328c3056ce29b9452f322684624c542f
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Colored Horizontal Scroll Bar.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.249000Z
+25fc2e960afdef8e7f58c65fa4697143
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Colored Popup List.png
+file
+
+
+
+
+2015-02-26T06:44:57.315000Z
+231654c2587cbd0eea89815b385cff2b
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Colored Popup List.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.296000Z
+f741aa4a99d93c45c1a12805b66312f7
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Colored Progress Bar.png
+file
+
+
+
+
+2015-02-26T06:44:57.296000Z
+e9bdc622f1d12cee2a725462797397d5
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Colored Progress Bar.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.233000Z
+5393af3c0530cc013232daec99ee12c7
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Colored Slider.png
+file
+
+
+
+
+2015-02-26T06:44:57.152000Z
+f61995891635a8880d1670a9ff394e92
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Colored Slider.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.221000Z
+fc89f0e7f524c7befbd72e49c68b4e4f
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Colored Vertical Scroll Bar.png
+file
+
+
+
+
+2015-02-26T06:44:57.231000Z
+1c33a082fa66b5430281662b5d88ff37
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Colored Vertical Scroll Bar.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.204000Z
+af3e3bc096c04e61bef78deddd89ffed
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Button.png
+file
+
+
+
+
+2015-02-26T06:44:57.332000Z
+4ed182b6de5fa408ad71c0035296f4fa
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Button.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.321000Z
+6a2e240866fbe8c0c4e751355530adbc
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Checkbox.png
+file
+
+
+
+
+2015-02-26T06:44:57.164000Z
+15f1f79f43f01800e380f52da989837a
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Checkbox.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.227000Z
+35eeaa113ae6999181e57ff9bd708cc5
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Horizontal Scroll Bar.png
+file
+
+
+
+
+2015-02-26T06:44:57.175000Z
+8e0a9b442f8bb7a610de39c170645eb0
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Horizontal Scroll Bar.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.158000Z
+cb455795b5df6e83196ce0cfe2d83561
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Horizontal Slider.png
+file
+
+
+
+
+2015-02-26T06:44:57.296000Z
+3ced04a7d510a22420f69f0ecd92fe73
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Horizontal Slider.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.155000Z
+d34b3c4ec9cfd32db0c2c078db9ec743
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Input Field.png
+file
+
+
+
+
+2015-02-26T06:44:57.213000Z
+05f773925483bd1ef19eb3ec36f6d28b
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Input Field.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.167000Z
+d5d0d2c9e9046775105df805051274e6
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Popup List.png
+file
+
+
+
+
+2015-02-26T06:44:57.180000Z
+2abdfb953727a6470fe37b189e59fa80
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Popup List.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.161000Z
+0d134a9302dfb168b074bbb44e0fb1d7
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Progress Bar.png
+file
+
+
+
+
+2015-02-26T06:44:57.169000Z
+2493c75fbba641a4ecc42968f2a622f1
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Progress Bar.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.150000Z
+72bd8fe93fb2b899230d0d64d090a4f8
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Text Box.png
+file
+
+
+
+
+2015-02-26T06:44:57.317000Z
+cd68bba9cefe8342ff569c31a16ff3e6
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Text Box.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.296000Z
+0cf03717527dc90981ab9972af910ca0
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Vertical Scroll Bar.png
+file
+
+
+
+
+2015-02-26T06:44:57.146000Z
+4a3113b4acbb2b12f0fe94ed81f2dec2
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Vertical Scroll Bar.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.327000Z
+d16d9b04bc5f4902f492becfd33fd06f
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Vertical Slider.png
+file
+
+
+
+
+2015-02-26T06:44:57.236000Z
+1a2a1bc2e44b77e2cb2cc2c521084e15
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Control - Simple Vertical Slider.png.meta
+file
+
+
+
+
+2015-02-26T06:44:57.323000Z
+d41a38598947f0bffc8838e0e9acb813
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+

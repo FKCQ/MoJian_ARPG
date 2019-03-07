@@ -1,0 +1,108 @@
+8
+
+dir
+313
+http://localhost:8080/svn/allUnity/Assets/AllUIs/NGUI/Scripts
+http://localhost:8080/svn/allUnity
+
+
+
+2015-01-20T06:16:15.492111Z
+188
+liyong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6c58ca4b-5727-489a-bf76-2f168ee0ce50
+
+Editor
+dir
+
+Editor.meta
+file
+
+
+
+
+2015-02-26T06:45:05.334000Z
+8245fd267352a6561671db5e7df1c55e
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Interaction
+dir
+
+Interaction.meta
+file
+
+
+
+
+2015-02-26T06:45:05.318000Z
+90c53d9d7d445cc27d8b030781c6cee6
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Internal
+dir
+
+Internal.meta
+file
+
+
+
+
+2015-02-26T06:45:05.318000Z
+ecc6caf993597271c4c969794b1317e6
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Tweening
+dir
+
+Tweening.meta
+file
+
+
+
+
+2015-02-26T06:45:05.318000Z
+72170355909f42cd541b97b8bebb344c
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+UI
+dir
+
+UI.meta
+file
+
+
+
+
+2015-02-26T06:45:05.318000Z
+ba770e824346c97f9018a125cdd04555
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+

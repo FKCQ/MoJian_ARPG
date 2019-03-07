@@ -1,0 +1,92 @@
+8
+
+dir
+313
+http://localhost:8080/svn/allUnity/Assets/AllUIs/NGUI/Examples/Atlases
+http://localhost:8080/svn/allUnity
+
+
+
+2015-01-20T06:16:15.492111Z
+188
+liyong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6c58ca4b-5727-489a-bf76-2f168ee0ce50
+
+Fantasy
+dir
+
+Fantasy.meta
+file
+
+
+
+
+2015-02-26T06:44:56.195000Z
+0fcbb52fb1ff2b1e17d8617b032bcabb
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Refractive
+dir
+
+Refractive.meta
+file
+
+
+
+
+2015-02-26T06:44:56.195000Z
+c4e3a15fe496d9dcf7d94668211757d3
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+SciFi
+dir
+
+SciFi.meta
+file
+
+
+
+
+2015-02-26T06:44:55.897000Z
+1e876b60751ee6c1022c73269fc2c85e
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Wooden
+dir
+
+Wooden.meta
+file
+
+
+
+
+2015-02-26T06:44:55.897000Z
+06702c4a4ef6dc4470c3d45904dc220f
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+

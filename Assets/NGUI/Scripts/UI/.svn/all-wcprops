@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/UI
+END
+UILocalize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/UI/UILocalize.cs
+END
+UIViewport.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UIViewport.cs
+END
+UISprite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/UI/UISprite.cs
+END
+UI2DSpriteAnimation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/UI/UI2DSpriteAnimation.cs
+END
+UIRoot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/UI/UIRoot.cs
+END
+UIInput.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/UI/UIInput.cs
+END
+UI2DSpriteAnimation.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UI2DSpriteAnimation.cs.meta
+END
+UIPanel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/UI/UIPanel.cs
+END
+UISprite.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UISprite.cs.meta
+END
+UILocalize.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UILocalize.cs.meta
+END
+UILabel.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UILabel.cs.meta
+END
+UIAnchor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UIAnchor.cs
+END
+UITexture.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/UI/UITexture.cs
+END
+UISpriteData.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UISpriteData.cs.meta
+END
+UIFont.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UIFont.cs.meta
+END
+UILabel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/UI/UILabel.cs
+END
+UIOrthoCamera.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UIOrthoCamera.cs.meta
+END
+UITextList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/UI/UITextList.cs
+END
+UISpriteAnimation.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UISpriteAnimation.cs.meta
+END
+UI2DSprite.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/UI/UI2DSprite.cs.meta
+END
+UITooltip.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UITooltip.cs.meta
+END
+UIPanel.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UIPanel.cs.meta
+END
+UICamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/UI/UICamera.cs
+END
+UIStretch.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UIStretch.cs.meta
+END
+UIAtlas.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/UI/UIAtlas.cs
+END
+UIRoot.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UIRoot.cs.meta
+END
+UIInput.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UIInput.cs.meta
+END
+UIAtlas.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UIAtlas.cs.meta
+END
+UIStretch.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UIStretch.cs
+END
+UICamera.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UICamera.cs.meta
+END
+UIViewport.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UIViewport.cs.meta
+END
+UITooltip.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UITooltip.cs
+END
+UISpriteAnimation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/UI/UISpriteAnimation.cs
+END
+UI2DSprite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/UI/UI2DSprite.cs
+END
+UITextList.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UITextList.cs.meta
+END
+UIOrthoCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UIOrthoCamera.cs
+END
+UISpriteData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UISpriteData.cs
+END
+UIFont.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/UI/UIFont.cs
+END
+UITexture.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UITexture.cs.meta
+END
+UIAnchor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/UI/UIAnchor.cs.meta
+END

@@ -1,0 +1,60 @@
+8
+
+dir
+313
+http://localhost:8080/svn/allUnity/Assets/AllUIs/NGUI/Examples/Scripts
+http://localhost:8080/svn/allUnity
+
+
+
+2015-01-20T06:16:15.492111Z
+188
+liyong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6c58ca4b-5727-489a-bf76-2f168ee0ce50
+
+InventorySystem
+dir
+
+InventorySystem.meta
+file
+
+
+
+
+2015-02-26T06:44:51.613000Z
+2e1e16c59920d795ab0f2853783ac4bc
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Other
+dir
+
+Other.meta
+file
+
+
+
+
+2015-02-26T06:44:51.610000Z
+5cd79b8260a25b580d0b9ae196aa2b48
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+

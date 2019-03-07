@@ -1,0 +1,262 @@
+8
+
+dir
+313
+http://localhost:8080/svn/allUnity/Assets/AllUIs/NGUI/Examples/Models/Orc%20Armor
+http://localhost:8080/svn/allUnity
+
+
+
+2015-01-20T06:16:15.492111Z
+188
+liyong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6c58ca4b-5727-489a-bf76-2f168ee0ce50
+
+Bracers.FBX
+file
+
+
+
+
+2015-02-26T06:44:49.296000Z
+258c6ddcee8691d4e03353b667bc8d54
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Bracers.FBX.meta
+file
+
+
+
+
+2015-02-26T06:44:49.414000Z
+6d08958efab0b8dc8a9b9ed7f1dde208
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Armor (Diffuse).psd
+file
+
+
+
+
+2015-02-26T06:44:49.303000Z
+d7a9b83867357c85f3aa2aed3d110da3
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Armor (Diffuse).psd.meta
+file
+
+
+
+
+2015-02-26T06:44:49.185000Z
+b69db055d8f548d804416eaee3d0d37c
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Armor (Maps).png
+file
+
+
+
+
+2015-02-26T06:44:49.311000Z
+b59b93c87be44f579b82180b9c27db99
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Armor (Maps).png.meta
+file
+
+
+
+
+2015-02-26T06:44:49.280000Z
+aa10937ed3c2d19cbade9478e4225f30
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Armor (Normal).png
+file
+
+
+
+
+2015-02-26T06:44:49.305000Z
+7d96fad6b6b9d711628e6271b9b27d5e
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Armor (Normal).png.meta
+file
+
+
+
+
+2015-02-26T06:44:49.260000Z
+078e5b0b4071dfe82aea04ec0cb5bef5
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Armor.mat
+file
+
+
+
+
+2015-02-26T06:44:49.307000Z
+55cae354262f4d402d580a962565053f
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Armor.mat.meta
+file
+
+
+
+
+2015-02-26T06:44:49.280000Z
+2c3492d560236b4a2db88e4604dd2364
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Armor.shader
+file
+
+
+
+
+2015-02-26T06:44:49.280000Z
+c5dafe7a661d150ce9eb57753b1f5fef
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Armor.shader.meta
+file
+
+
+
+
+2015-02-26T06:44:49.346000Z
+ddfcfd61ff51a33119e325e39936f42f
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Bracers.prefab
+file
+
+
+
+
+2015-02-26T06:44:49.414000Z
+98b9f8a73df4f38d7710d6e4b9611e70
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Bracers.prefab.meta
+file
+
+
+
+
+2015-02-26T06:44:49.309000Z
+137751babd901069045dde7a44775306
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Shoulders.prefab
+file
+
+
+
+
+2015-02-26T06:44:49.314000Z
+4d2b2d89627e75637ca00368866544e7
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Shoulders.prefab.meta
+file
+
+
+
+
+2015-02-26T06:44:49.299000Z
+dd2c64965cf2860cbd77c5edc1a5cb9e
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Shoulders.FBX
+file
+
+
+
+
+2015-02-26T06:44:49.228000Z
+f4efde0d5bff77cc020eddd50725c998
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Shoulders.FBX.meta
+file
+
+
+
+
+2015-02-26T06:44:49.317000Z
+7736c0879251007f19f40308591c2245
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+

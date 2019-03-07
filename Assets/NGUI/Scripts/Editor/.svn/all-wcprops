@@ -1,0 +1,977 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor
+END
+UISpriteAnimationInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UISpriteAnimationInspector.cs.meta
+END
+UIAtlasMaker.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIAtlasMaker.cs.meta
+END
+TweenTransformEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenTransformEditor.cs.meta
+END
+UIFontInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIFontInspector.cs.meta
+END
+UIDragObjectEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIDragObjectEditor.cs
+END
+UIWidgetContainerEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIWidgetContainerEditor.cs.meta
+END
+UIAnchorEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIAnchorEditor.cs.meta
+END
+UITableEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UITableEditor.cs
+END
+NGUIContextMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/NGUIContextMenu.cs
+END
+UIPopupListInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIPopupListInspector.cs
+END
+UICreateWidgetWizard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UICreateWidgetWizard.cs
+END
+UITexturePacker.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UITexturePacker.cs.meta
+END
+NGUISettings.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/NGUISettings.cs.meta
+END
+UIAnchorEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UIAnchorEditor.cs
+END
+UIWidgetContainerEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UIWidgetContainerEditor.cs
+END
+UIPrefabTool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UIPrefabTool.cs
+END
+EventDelegateDrawer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/EventDelegateDrawer.cs
+END
+TweenFOVEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenFOVEditor.cs
+END
+TweenTransformEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenTransformEditor.cs
+END
+EventDelegateEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/EventDelegateEditor.cs
+END
+PropertyBindingEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/PropertyBindingEditor.cs.meta
+END
+ActiveAnimationEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/ActiveAnimationEditor.cs
+END
+TweenHeightEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenHeightEditor.cs.meta
+END
+UIAtlasInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIAtlasInspector.cs.meta
+END
+UIWrapContentEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UIWrapContentEditor.cs
+END
+NGUIContextMenu.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/NGUIContextMenu.cs.meta
+END
+UIPopupListInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIPopupListInspector.cs.meta
+END
+UISliderEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UISliderEditor.cs.meta
+END
+TweenColorEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenColorEditor.cs.meta
+END
+PropertyReferenceDrawer.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/PropertyReferenceDrawer.cs.meta
+END
+UIProgressBarEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIProgressBarEditor.cs
+END
+UIEventTriggerEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIEventTriggerEditor.cs
+END
+EventDelegateEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/EventDelegateEditor.cs.meta
+END
+NGUITransformInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/NGUITransformInspector.cs
+END
+NGUISnap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/NGUISnap.cs
+END
+UIButtonEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIButtonEditor.cs
+END
+NGUISnap.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/NGUISnap.cs.meta
+END
+UITextureInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UITextureInspector.cs
+END
+UIButtonMessageEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIButtonMessageEditor.cs
+END
+NGUIHandles.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/NGUIHandles.cs.meta
+END
+UISpriteInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UISpriteInspector.cs.meta
+END
+UIEventTriggerEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIEventTriggerEditor.cs.meta
+END
+UIProgressBarEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIProgressBarEditor.cs.meta
+END
+UILocalizeEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UILocalizeEditor.cs
+END
+PropertyReferenceDrawer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/PropertyReferenceDrawer.cs
+END
+UISnapshotPointEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UISnapshotPointEditor.cs.meta
+END
+TweenPositionEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenPositionEditor.cs
+END
+UIDrawCallInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIDrawCallInspector.cs
+END
+UIPanelTool.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIPanelTool.cs.meta
+END
+NGUIEditorTools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/NGUIEditorTools.cs
+END
+TweenWidthEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenWidthEditor.cs.meta
+END
+UILocalizeEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UILocalizeEditor.cs.meta
+END
+TweenHeightEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenHeightEditor.cs
+END
+BMFontReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/BMFontReader.cs
+END
+TweenOrthoSizeEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenOrthoSizeEditor.cs
+END
+NGUIEditorExtensions.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/NGUIEditorExtensions.cs.meta
+END
+TweenFOVEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenFOVEditor.cs.meta
+END
+NGUIJson.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/NGUIJson.cs
+END
+UIDragObjectEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIDragObjectEditor.cs.meta
+END
+NGUIJson.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/NGUIJson.cs.meta
+END
+UIFontInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIFontInspector.cs
+END
+UIScrollViewEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIScrollViewEditor.cs
+END
+UICameraTool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UICameraTool.cs
+END
+UI2DSpriteEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UI2DSpriteEditor.cs.meta
+END
+UIPlayTweenEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIPlayTweenEditor.cs
+END
+NGUIHelp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/NGUIHelp.cs
+END
+BMFontReader.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/BMFontReader.cs.meta
+END
+UISpriteAnimationInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UISpriteAnimationInspector.cs
+END
+UIStretchEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIStretchEditor.cs.meta
+END
+UICreateWidgetWizard.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UICreateWidgetWizard.cs.meta
+END
+UIPlayAnimationEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UIPlayAnimationEditor.cs
+END
+FreeType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/FreeType.cs
+END
+UIInputEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIInputEditor.cs.meta
+END
+UIRootEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIRootEditor.cs.meta
+END
+UISnapshotPointEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UISnapshotPointEditor.cs
+END
+UICameraEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UICameraEditor.cs.meta
+END
+UITableEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UITableEditor.cs.meta
+END
+UISliderEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UISliderEditor.cs
+END
+UIFontMaker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UIFontMaker.cs
+END
+UIBasicSpriteEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIBasicSpriteEditor.cs.meta
+END
+NGUISelectionTools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/NGUISelectionTools.cs
+END
+UIPlayTweenEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIPlayTweenEditor.cs.meta
+END
+UITweenerEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UITweenerEditor.cs.meta
+END
+UI2DSpriteEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UI2DSpriteEditor.cs
+END
+TweenRotationEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenRotationEditor.cs.meta
+END
+NGUIMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/NGUIMenu.cs
+END
+TweenScaleEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenScaleEditor.cs
+END
+UIImageButtonInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIImageButtonInspector.cs.meta
+END
+UIPanelTool.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UIPanelTool.cs
+END
+TweenWidthEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenWidthEditor.cs
+END
+TweenColorEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenColorEditor.cs
+END
+UIRootEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UIRootEditor.cs
+END
+UIInputEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIInputEditor.cs
+END
+UIImageButtonInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIImageButtonInspector.cs
+END
+PropertyBindingEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/PropertyBindingEditor.cs
+END
+UIToggleInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIToggleInspector.cs.meta
+END
+UITextureInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UITextureInspector.cs.meta
+END
+UIForwardEventsEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIForwardEventsEditor.cs
+END
+UILabelInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UILabelInspector.cs
+END
+UIScrollViewEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIScrollViewEditor.cs.meta
+END
+TweenRotationEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenRotationEditor.cs
+END
+NGUITransformInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/NGUITransformInspector.cs.meta
+END
+TweenOrthoSizeEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenOrthoSizeEditor.cs.meta
+END
+UITexturePacker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UITexturePacker.cs
+END
+ComponentSelector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/ComponentSelector.cs.meta
+END
+UIKeyNavigationEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIKeyNavigationEditor.cs
+END
+UIScrollBarEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIScrollBarEditor.cs.meta
+END
+UIWidgetInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIWidgetInspector.cs.meta
+END
+UIPanelInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UIPanelInspector.cs
+END
+UIGridEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UIGridEditor.cs
+END
+UIButtonKeysEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIButtonKeysEditor.cs
+END
+UICameraEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UICameraEditor.cs
+END
+SpriteSelector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/SpriteSelector.cs.meta
+END
+SpriteSelector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/SpriteSelector.cs
+END
+FreeType.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/FreeType.cs.meta
+END
+UIWrapContentEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIWrapContentEditor.cs.meta
+END
+UIAtlasInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIAtlasInspector.cs
+END
+UIButtonColorEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIButtonColorEditor.cs.meta
+END
+UIStretchEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UIStretchEditor.cs
+END
+UIKeyNavigationEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIKeyNavigationEditor.cs.meta
+END
+ComponentSelector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/ComponentSelector.cs
+END
+NGUIHelp.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/NGUIHelp.cs.meta
+END
+UICreateNewUIWizard.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UICreateNewUIWizard.cs.meta
+END
+EventDelegateDrawer.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/EventDelegateDrawer.cs.meta
+END
+UIPrefabTool.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIPrefabTool.cs.meta
+END
+UIButtonEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIButtonEditor.cs.meta
+END
+TweenVolumeEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenVolumeEditor.cs
+END
+UITweenerEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UITweenerEditor.cs
+END
+NGUISettings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/NGUISettings.cs
+END
+UICreateNewUIWizard.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UICreateNewUIWizard.cs
+END
+NGUIEditorExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/NGUIEditorExtensions.cs
+END
+UIAtlasMaker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UIAtlasMaker.cs
+END
+UIFontMaker.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIFontMaker.cs.meta
+END
+UIRectEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UIRectEditor.cs
+END
+UIButtonKeysEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIButtonKeysEditor.cs.meta
+END
+UIGridEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIGridEditor.cs.meta
+END
+UIPanelInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIPanelInspector.cs.meta
+END
+UIPlayAnimationEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIPlayAnimationEditor.cs.meta
+END
+UIWidgetInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UIWidgetInspector.cs
+END
+UIScrollBarEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIScrollBarEditor.cs
+END
+NGUIHandles.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/NGUIHandles.cs
+END
+UISpriteInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UISpriteInspector.cs
+END
+ActiveAnimationEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/ActiveAnimationEditor.cs.meta
+END
+TweenScaleEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenScaleEditor.cs.meta
+END
+NGUIMenu.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/NGUIMenu.cs.meta
+END
+UIButtonMessageEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIButtonMessageEditor.cs.meta
+END
+UICameraTool.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UICameraTool.cs.meta
+END
+TweenVolumeEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenVolumeEditor.cs.meta
+END
+UIForwardEventsEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIForwardEventsEditor.cs.meta
+END
+UILabelInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UILabelInspector.cs.meta
+END
+UIToggleInspector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIToggleInspector.cs
+END
+NGUISelectionTools.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/NGUISelectionTools.cs.meta
+END
+UIBasicSpriteEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UIBasicSpriteEditor.cs
+END
+UIButtonColorEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIButtonColorEditor.cs
+END
+TweenAlphaEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenAlphaEditor.cs.meta
+END
+TweenPositionEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenPositionEditor.cs.meta
+END
+UIDrawCallInspector.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIDrawCallInspector.cs.meta
+END
+UIDrawCallViewer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Editor/UIDrawCallViewer.cs
+END
+NGUIEditorTools.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/NGUIEditorTools.cs.meta
+END
+UIRectEditor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIRectEditor.cs.meta
+END
+UIDrawCallViewer.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/UIDrawCallViewer.cs.meta
+END
+TweenAlphaEditor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Editor/TweenAlphaEditor.cs
+END

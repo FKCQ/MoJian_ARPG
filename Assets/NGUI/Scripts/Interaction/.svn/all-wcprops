@@ -1,0 +1,509 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Interaction
+END
+UIDraggableCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Interaction/UIDraggableCamera.cs
+END
+UIDragCamera.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIDragCamera.cs.meta
+END
+UIKeyBinding.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Interaction/UIKeyBinding.cs
+END
+UIDragDropRoot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIDragDropRoot.cs
+END
+UIButtonActivate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIButtonActivate.cs
+END
+UIToggledObjects.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIToggledObjects.cs
+END
+UICenterOnChild.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UICenterOnChild.cs.meta
+END
+UIPopupList.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIPopupList.cs.meta
+END
+UIScrollBar.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIScrollBar.cs
+END
+UIImageButton.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIImageButton.cs.meta
+END
+UIDragResize.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIDragResize.cs.meta
+END
+TypewriterEffect.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/TypewriterEffect.cs.meta
+END
+UIDragDropContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIDragDropContainer.cs
+END
+UIWidgetContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIWidgetContainer.cs
+END
+UIButtonMessage.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIButtonMessage.cs.meta
+END
+UIToggle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Interaction/UIToggle.cs
+END
+UIScrollView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Interaction/UIScrollView.cs
+END
+UIButtonRotation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIButtonRotation.cs
+END
+UIButtonScale.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIButtonScale.cs
+END
+UIScrollView.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIScrollView.cs.meta
+END
+UIDragObject.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIDragObject.cs.meta
+END
+UIDragDropContainer.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIDragDropContainer.cs.meta
+END
+UIKeyNavigation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIKeyNavigation.cs
+END
+TypewriterEffect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Interaction/TypewriterEffect.cs
+END
+UIPlayAnimation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Interaction/UIPlayAnimation.cs
+END
+UIWrapContent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Interaction/UIWrapContent.cs
+END
+UIScrollBar.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIScrollBar.cs.meta
+END
+UIPopupList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Interaction/UIPopupList.cs
+END
+UISoundVolume.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UISoundVolume.cs
+END
+UISoundVolume.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UISoundVolume.cs.meta
+END
+LanguageSelection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/LanguageSelection.cs
+END
+UIKeyBinding.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIKeyBinding.cs.meta
+END
+UIDraggableCamera.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIDraggableCamera.cs.meta
+END
+UIDragDropItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Interaction/UIDragDropItem.cs
+END
+UIPlaySound.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Interaction/UIPlaySound.cs
+END
+UIPlayTween.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIPlayTween.cs.meta
+END
+UIButton.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIButton.cs.meta
+END
+UIButtonMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIButtonMessage.cs
+END
+UIWidgetContainer.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIWidgetContainer.cs.meta
+END
+UITable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Interaction/UITable.cs
+END
+UIDragScrollView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIDragScrollView.cs
+END
+UIImageButton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIImageButton.cs
+END
+UIProgressBar.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIProgressBar.cs.meta
+END
+UIEventTrigger.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIEventTrigger.cs.meta
+END
+LanguageSelection.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/LanguageSelection.cs.meta
+END
+UIToggledComponents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIToggledComponents.cs
+END
+UIButtonActivate.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIButtonActivate.cs.meta
+END
+UIDragDropRoot.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIDragDropRoot.cs.meta
+END
+UIButtonKeys.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIButtonKeys.cs.meta
+END
+UIGrid.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIGrid.cs.meta
+END
+UIDragCamera.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIDragCamera.cs
+END
+UIPlayAnimation.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIPlayAnimation.cs.meta
+END
+UIForwardEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIForwardEvents.cs
+END
+UIButtonRotation.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIButtonRotation.cs.meta
+END
+UIButtonScale.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIButtonScale.cs.meta
+END
+UIPlayTween.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIPlayTween.cs
+END
+UIPlaySound.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIPlaySound.cs.meta
+END
+UIToggle.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIToggle.cs.meta
+END
+UIForwardEvents.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIForwardEvents.cs.meta
+END
+UIButtonColor.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Interaction/UIButtonColor.cs
+END
+UIDragResize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIDragResize.cs
+END
+UIGrid.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Interaction/UIGrid.cs
+END
+UIButtonKeys.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIButtonKeys.cs
+END
+UIButtonOffset.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIButtonOffset.cs
+END
+UIToggledComponents.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIToggledComponents.cs.meta
+END
+UISlider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UISlider.cs
+END
+UICenterOnChild.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Interaction/UICenterOnChild.cs
+END
+UISlider.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UISlider.cs.meta
+END
+UIProgressBar.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Interaction/UIProgressBar.cs
+END
+UIEventTrigger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIEventTrigger.cs
+END
+UIToggledObjects.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIToggledObjects.cs.meta
+END
+UIButtonOffset.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIButtonOffset.cs.meta
+END
+UITable.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UITable.cs.meta
+END
+UIDragScrollView.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIDragScrollView.cs.meta
+END
+UIWrapContent.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIWrapContent.cs.meta
+END
+UIButtonColor.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIButtonColor.cs.meta
+END
+UIKeyNavigation.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIKeyNavigation.cs.meta
+END
+UICenterOnClick.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UICenterOnClick.cs.meta
+END
+UISavedOption.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UISavedOption.cs
+END
+UIDragObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIDragObject.cs
+END
+UIButton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIButton.cs
+END
+UISavedOption.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UISavedOption.cs.meta
+END
+UICenterOnClick.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UICenterOnClick.cs
+END
+UIDragDropItem.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Interaction/UIDragDropItem.cs.meta
+END

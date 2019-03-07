@@ -1,0 +1,54 @@
+8
+
+dir
+313
+http://localhost:8080/svn/allUnity/Assets/AllUIs/NGUI/Examples/Other
+http://localhost:8080/svn/allUnity
+
+
+
+2015-01-20T06:16:15.492111Z
+188
+liyong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6c58ca4b-5727-489a-bf76-2f168ee0ce50
+
+Storage Icon Template.prefab
+file
+
+
+
+
+2015-02-26T06:44:47.576000Z
+5ac7b2145c4c368721c8a462eb43a0fd
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Storage Icon Template.prefab.meta
+file
+
+
+
+
+2015-02-26T06:44:47.560000Z
+8ff087f2ac3d4051c639254dea62bb78
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+

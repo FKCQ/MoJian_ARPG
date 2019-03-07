@@ -1,0 +1,444 @@
+8
+
+dir
+313
+http://localhost:8080/svn/allUnity/Assets/AllUIs/NGUI/Resources/Shaders
+http://localhost:8080/svn/allUnity
+
+
+
+2015-01-20T06:16:15.492111Z
+188
+liyong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6c58ca4b-5727-489a-bf76-2f168ee0ce50
+
+Unlit - Premultiplied Colored 1.shader
+file
+
+
+
+
+2015-02-26T06:45:05.498000Z
+79988cf6185786a78fbbbc34757100b2
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Premultiplied Colored 1.shader.meta
+file
+
+
+
+
+2015-02-26T06:45:05.519000Z
+618f71c3bd0508e22cdb3ce81b9ca453
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Premultiplied Colored 2.shader
+file
+
+
+
+
+2015-02-26T06:45:05.467000Z
+4a01d15acd85e24b63e675739cd9a638
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Premultiplied Colored 2.shader.meta
+file
+
+
+
+
+2015-02-26T06:45:05.534000Z
+e385c7fda0c47381bbd82bc3ac89d115
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Premultiplied Colored 3.shader
+file
+
+
+
+
+2015-02-26T06:45:05.498000Z
+87740a515f6b08e01e66a58ff4d3ea03
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Premultiplied Colored 3.shader.meta
+file
+
+
+
+
+2015-02-26T06:45:05.534000Z
+cd9aa16e73ae6dbbd3e6ad310b39d237
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Premultiplied Colored.shader
+file
+
+
+
+
+2015-02-26T06:45:05.498000Z
+20400e232962d6e6f9f1d2d430ad97e5
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Premultiplied Colored.shader.meta
+file
+
+
+
+
+2015-02-26T06:45:05.498000Z
+d6294e33802b65c2315c9f1df5c5ded4
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Text 1.shader
+file
+
+
+
+
+2015-02-26T06:45:05.467000Z
+27efe7eef0a84aac3b5e171986b98184
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Text 1.shader.meta
+file
+
+
+
+
+2015-02-26T06:45:05.519000Z
+52235937b6023bb7b943a71fa4ad3f41
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Text 2.shader
+file
+
+
+
+
+2015-02-26T06:45:05.498000Z
+e92f4c9eaad10efac78e8e5827db3523
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Text 2.shader.meta
+file
+
+
+
+
+2015-02-26T06:45:05.519000Z
+af6ae1e6e91e22a82aabc9b69d5a0379
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Text 3.shader
+file
+
+
+
+
+2015-02-26T06:45:05.467000Z
+58d10e245e4998d9e2bb7724468c3f71
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Text 3.shader.meta
+file
+
+
+
+
+2015-02-26T06:45:05.519000Z
+f0ccdddc1d4634199cf7bae58a03a4c6
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Text.shader
+file
+
+
+
+
+2015-02-26T06:45:05.482000Z
+61d4b38165b260a1c70a7deff61279d5
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Text.shader.meta
+file
+
+
+
+
+2015-02-26T06:45:05.498000Z
+d2d412eb3feb98c965f79d3f742ca82d
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Transparent Colored 1.shader
+file
+
+
+
+
+2015-02-26T06:45:05.518000Z
+d920b3de00d1a9d19f24d5aa0fc00506
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Transparent Colored 1.shader.meta
+file
+
+
+
+
+2015-02-26T06:45:05.467000Z
+22ec684ce2057f53cdfa73ebbe501587
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Transparent Colored 2.shader
+file
+
+
+
+
+2015-02-26T06:45:05.482000Z
+0f6a86bed33594b1c1329622fcd84b77
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Transparent Colored 2.shader.meta
+file
+
+
+
+
+2015-02-26T06:45:05.482000Z
+0d08fce3d9d263a5944c095421e358ee
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Transparent Colored 3.shader
+file
+
+
+
+
+2015-02-26T06:45:05.519000Z
+3d652b3db4329801c42979afab92f4b8
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Transparent Colored 3.shader.meta
+file
+
+
+
+
+2015-02-26T06:45:05.482000Z
+19cfb5b52d289b11210b1312a52b676a
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Transparent Colored.shader
+file
+
+
+
+
+2015-02-26T06:45:05.467000Z
+cb12b2f087e2279316679facf62543d7
+2014-12-30T01:25:17.091476Z
+138
+liyong
+has-props
+
+Unlit - Transparent Colored.shader.meta
+file
+
+
+
+
+2015-02-26T06:45:05.534000Z
+eeac525ac329365c125991af2e0a9a7b
+2014-12-15T07:25:06.277121Z
+116
+liyong
+has-props
+
+Unlit - Transparent Packed 1.shader
+file
+
+
+
+
+2015-02-26T06:45:05.515000Z
+3656bbd9d8ed7facc30b2446b6000e49
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Transparent Packed 1.shader.meta
+file
+
+
+
+
+2015-02-26T06:45:05.467000Z
+580b76815e06b52fae8a39940e049277
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Transparent Packed 2.shader
+file
+
+
+
+
+2015-02-26T06:45:05.482000Z
+345a67896ba6f0793a96ca3c0cc982a4
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Transparent Packed 2.shader.meta
+file
+
+
+
+
+2015-02-26T06:45:05.482000Z
+ef2b07fb456bde2b20f475687305438d
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Transparent Packed 3.shader
+file
+
+
+
+
+2015-02-26T06:45:05.519000Z
+bd0393f671651d73557404d8b5ccb6ce
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Transparent Packed 3.shader.meta
+file
+
+
+
+
+2015-02-26T06:45:05.482000Z
+8640e800459f4b9ef627705f5876dd2b
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Transparent Packed.shader
+file
+
+
+
+
+2015-02-26T06:45:05.467000Z
+7b685d06c63af99d6d854a93fe306b1d
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Unlit - Transparent Packed.shader.meta
+file
+
+
+
+
+2015-02-26T06:45:05.519000Z
+30fa85652df7ecbe5284bb3d1dffe0db
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+

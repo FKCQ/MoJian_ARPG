@@ -1,0 +1,236 @@
+8
+
+dir
+313
+http://localhost:8080/svn/allUnity/Assets/AllUIs/NGUI/Examples/Models/Orc
+http://localhost:8080/svn/allUnity
+
+
+
+2015-01-20T06:16:15.492111Z
+188
+liyong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6c58ca4b-5727-489a-bf76-2f168ee0ce50
+
+FBX.FBX
+file
+
+
+
+
+2015-02-26T06:44:48.595000Z
+ed873df94009c5b4576524baf33e0cb1
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+FBX.FBX.meta
+file
+
+
+
+
+2015-02-26T06:44:48.579000Z
+4f2d531efb9ab563a1b14931aa895eee
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+FBX@idle.FBX
+file
+
+
+
+
+2015-02-26T06:44:48.595000Z
+3afc8b68a052f179259475fab0ae091c
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+FBX@idle.FBX.meta
+file
+
+
+
+
+2015-02-26T06:44:48.579000Z
+8c99b7028dfabbda0e29600dbc844654
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+FBX@idleBreaks.FBX
+file
+
+
+
+
+2015-02-26T06:44:48.579000Z
+0df18b83e8d6a52f1859d4a391ce4ad3
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+FBX@idleBreaks.FBX.meta
+file
+
+
+
+
+2015-02-26T06:44:48.560000Z
+13b8c08669e468ffa3b3315dba49efb7
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Skin (Diffuse).psd
+file
+
+
+
+
+2015-02-26T06:44:48.579000Z
+b84053d64c23c9eadbe8549714383dc2
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Skin (Diffuse).psd.meta
+file
+
+
+
+
+2015-02-26T06:44:48.564000Z
+df126aa2e1455f6723e0c1d099b93d32
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Skin (Normal).png
+file
+
+
+
+
+2015-02-26T06:44:48.595000Z
+9e98c74d3595f510aa961a2c17646d87
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Skin (Normal).png.meta
+file
+
+
+
+
+2015-02-26T06:44:48.564000Z
+38731200dcb3825f08160d5e86c1bc3e
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Skin.mat
+file
+
+
+
+
+2015-02-26T06:44:48.595000Z
+b007371392d0444c3db1f7669a93d7d1
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Skin.mat.meta
+file
+
+
+
+
+2015-02-26T06:44:48.564000Z
+cf05a25d784de5b44a469ab9427dced0
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Skin.shader
+file
+
+
+
+
+2015-02-26T06:44:48.579000Z
+ea6e3fe05507a436d9c55db8c2b54d6f
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc Skin.shader.meta
+file
+
+
+
+
+2015-02-26T06:44:48.544000Z
+b57d6cb5a367bfdd91c42380f904a78a
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc.prefab
+file
+
+
+
+
+2015-02-26T06:44:48.579000Z
+a26a28330331618a494c0dd671e60d67
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc.prefab.meta
+file
+
+
+
+
+2015-02-26T06:44:48.544000Z
+4283b315c2d7d9847a92ae8f6a3ef04c
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+

@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal
+END
+RealTime.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/RealTime.cs.meta
+END
+NGUIText.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/NGUIText.cs
+END
+Localization.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/Localization.cs
+END
+UIRect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/UIRect.cs
+END
+PropertyReference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/PropertyReference.cs
+END
+NGUIMath.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/NGUIMath.cs
+END
+NGUIMath.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/NGUIMath.cs.meta
+END
+UIDrawCall.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/UIDrawCall.cs.meta
+END
+UISnapshotPoint.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/UISnapshotPoint.cs.meta
+END
+UIWidget.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/UIWidget.cs.meta
+END
+Localization.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/Localization.cs.meta
+END
+PropertyBinding.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/PropertyBinding.cs
+END
+UIEventListener.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/UIEventListener.cs.meta
+END
+BMFont.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/BMFont.cs.meta
+END
+BetterList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/BetterList.cs
+END
+NGUITools.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/NGUITools.cs
+END
+ActiveAnimation.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/ActiveAnimation.cs.meta
+END
+RealTime.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/RealTime.cs
+END
+NGUIDebug.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/NGUIDebug.cs
+END
+BMSymbol.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/BMSymbol.cs.meta
+END
+AnimationOrTween.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/AnimationOrTween.cs.meta
+END
+AnimationOrTween.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/AnimationOrTween.cs
+END
+NGUIDebug.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/NGUIDebug.cs.meta
+END
+BMGlyph.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/BMGlyph.cs
+END
+UIBasicSprite.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/UIBasicSprite.cs
+END
+EventDelegate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/EventDelegate.cs
+END
+ActiveAnimation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/ActiveAnimation.cs
+END
+ByteReader.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/ByteReader.cs.meta
+END
+BetterList.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/BetterList.cs.meta
+END
+NGUITools.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/NGUITools.cs.meta
+END
+UIEventListener.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/UIEventListener.cs
+END
+BMFont.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/BMFont.cs
+END
+PropertyBinding.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/PropertyBinding.cs.meta
+END
+UISnapshotPoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/UISnapshotPoint.cs
+END
+UIWidget.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/UIWidget.cs
+END
+SpringPanel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/SpringPanel.cs
+END
+UIDrawCall.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/UIDrawCall.cs
+END
+PropertyReference.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/PropertyReference.cs.meta
+END
+SpringPanel.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/SpringPanel.cs.meta
+END
+UIRect.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/UIRect.cs.meta
+END
+NGUIText.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/NGUIText.cs.meta
+END
+ByteReader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/allUnity/!svn/ver/138/Assets/AllUIs/NGUI/Scripts/Internal/ByteReader.cs
+END
+UIBasicSprite.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/UIBasicSprite.cs.meta
+END
+EventDelegate.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/EventDelegate.cs.meta
+END
+BMGlyph.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/BMGlyph.cs.meta
+END
+UIGeometry.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/UIGeometry.cs
+END
+BMSymbol.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/BMSymbol.cs
+END
+UIGeometry.cs.meta
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/allUnity/!svn/ver/116/Assets/AllUIs/NGUI/Scripts/Internal/UIGeometry.cs.meta
+END

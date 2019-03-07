@@ -1,0 +1,60 @@
+8
+
+dir
+313
+http://localhost:8080/svn/allUnity/Assets/AllUIs/NGUI/Examples/Models
+http://localhost:8080/svn/allUnity
+
+
+
+2015-01-20T06:16:15.492111Z
+188
+liyong
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+6c58ca4b-5727-489a-bf76-2f168ee0ce50
+
+Orc
+dir
+
+Orc Armor
+dir
+
+Orc Armor.meta
+file
+
+
+
+
+2015-02-26T06:44:49.460000Z
+cf58876eec148b64cd9144816afe9ae9
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
+Orc.meta
+file
+
+
+
+
+2015-02-26T06:44:49.460000Z
+983f7e47e41cd85abc16eaab073e0b9e
+2015-01-20T06:16:15.492111Z
+188
+liyong
+has-props
+
