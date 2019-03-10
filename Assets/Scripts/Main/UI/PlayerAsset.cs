@@ -26,8 +26,8 @@ public class PlayerAsset : MonoBehaviour {
 
     public UILabel GoldenLabel {
         get {
-            if (goldenLabel == null)
-                goldenLabel = transform.Find("Golden/Label").GetComponent<UILabel>();
+            //if (goldenLabel == null)
+            //    goldenLabel = transform.Find("Golden/Label").GetComponent<UILabel>();
             return goldenLabel;
         }
 
@@ -94,9 +94,9 @@ public class PlayerAsset : MonoBehaviour {
         EnergyAmount = 150;
         SetPlayerAssets(10, 999, 0);
 
-        EnergyLabel.text = Energy.ToString() + "/" + EnergyAmount;
-        GoldenLabel.text = Golden.ToString();
-        DiamondLabel.text = Diamond.ToString();
+        //EnergyLabel.text = Energy.ToString() + "/" + EnergyAmount;
+        //GoldenLabel.text = Golden.ToString();
+        //DiamondLabel.text = Diamond.ToString();
 	}
 
     public void SetPlayerAssets(int newEnergy, int newGolden, int newDiamond)

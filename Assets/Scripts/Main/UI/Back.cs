@@ -14,4 +14,13 @@ public class Back : MonoBehaviour {
     {
         functionPanel.SetActive(false);
     }
+
+    public void BackToLast(GameObject current, GameObject last,GameObject startButton)
+    {
+        gameObject.SetActive(false);
+        current.SetActive(false);
+        startButton.SetActive(false);
+        last.SetActive(true);
+
+    }
 }

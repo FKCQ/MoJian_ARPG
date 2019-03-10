@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class InputNamePanel : MonoBehaviour
 {
@@ -29,7 +30,8 @@ public class InputNamePanel : MonoBehaviour
         {
             //TODO:存储玩家名称
             Debug.Log(playerName.text);
-            //TODO:页面跳转
+
+            Instantiate(Resources.Load("LoadingPanel"));
 
             //隐藏输入面板
             gameObject.SetActive(false);

@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class CreateNewCharacter : MonoBehaviour {
-    public GameObject selectPanel;
-    public void OnCreateNewCharacter(GameObject go)
+    public void OnCreateNewCharacter(GameObject go,GameObject backButton,GameObject startButton)
     {
-        selectPanel.SetActive(false);
+        gameObject.SetActive(false);
+        backButton.SetActive(true);
+        startButton.SetActive(true);
         go.SetActive(true);
     }
 	// Use this for initialization
