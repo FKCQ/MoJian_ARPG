@@ -9,7 +9,9 @@ namespace View
     {
         //玩家屏幕信息
         public UILabel txtHpByScreen;
+        public UILabel txtHpMaxByScreen;
         public UILabel txtMpByScreen;
+        public UILabel txtMpMaxByScreen;
         public UILabel txtLevelByScreen;
         public UISlider sliHp;
         public UISlider sliMp;
@@ -23,33 +25,39 @@ namespace View
         public UILabel txtMp_Cur;
         public UILabel txtMp_Max;
         public UILabel txtExp_Cur;
+        public UILabel txtExp_Max;
         public UISlider sliExp;
         public UILabel txtATK;
         public UILabel txtDEF;
 
         public UILabel txtEnergy_Cur;
+        public UILabel txtEnergy_Max;
         public UILabel txtGold;
         public UILabel txtDiamond;
 
-        private string maxHealth;
-        private string maxMagic;
-        private string maxEnergy;
-        private string maxExp;
-
+        private int health;
+        private int magic;
+        private int energy;
+        private int exp;
+        private int maxHealth;
+        private int maxMagic;
+        private int maxEnergy;
+        private int maxExp;
         private void Awake()
         {
-            Model_PlayerKernalData.playerKernalEvent += DisplayHp;
             Model_PlayerKernalData.playerKernalEvent += DisplayMaxHp;
-            Model_PlayerKernalData.playerKernalEvent += DisplayMp;
+            Model_PlayerKernalData.playerKernalEvent += DisplayHp;
             Model_PlayerKernalData.playerKernalEvent += DisplayMaxMp;
+            Model_PlayerKernalData.playerKernalEvent += DisplayMp;
             Model_PlayerKernalData.playerKernalEvent += DisplayATK;
             Model_PlayerKernalData.playerKernalEvent += DisplayDEF;
-            Model_PlayerKernalData.playerKernalEvent += DisplayExp;
-            Model_PlayerKernalData.playerKernalEvent += DisplayMaxExp;
-            Model_PlayerKernalData.playerKernalEvent += DisplayLevel;
-            Model_PlayerKernalData.playerKernalEvent += DisplayEnergy;
-            Model_PlayerKernalData.playerKernalEvent += DisplayGold;
-            Model_PlayerKernalData.playerKernalEvent += DisplayDiamond;
+            Model_PlayerExternalData.playerExternalDataEvent += DisplayExp;
+            Model_PlayerExternalData.playerExternalDataEvent += DisplayMaxExp;
+            Model_PlayerExternalData.playerExternalDataEvent += DisplayLevel;
+            Model_PlayerExternalData.playerExternalDataEvent += DisplayEnergy;
+            Model_PlayerExternalData.playerExternalDataEvent += DisplayMaxEnergy;
+            Model_PlayerExternalData.playerExternalDataEvent += DisplayGold;
+            Model_PlayerExternalData.playerExternalDataEvent += DisplayDiamond;
 
         }
 
@@ -68,13 +76,15 @@ namespace View
         {
             if (kvu.Key.Equals("Health"))
             {
-                if (txtHp_Cur && sliHp)
+                if (txtHp_Cur)
                 {
                     txtHp_Cur.text = kvu.Value.ToString();
                     txtHpByScreen.text = kvu.Value.ToString();
 
-                    txtHpByScreen.text = kvu.Value.ToString() + "/" + maxHealth;
-                    sliHp.value = float.Parse(kvu.Value.ToString()) / float.Parse(maxHealth);
+                    health = int.Parse(kvu.Value.ToString());
+
+                    sliHp.value = (float)health / maxHealth;
+
                 }
                 //死亡
                 if (((float)kvu.Value) <= 0)
@@ -86,10 +96,12 @@ namespace View
 
         private void DisplayMaxHp(KeyValueUpdate kvu)
         {
-            if (kvu.Key.Equals("MaxHealth") && txtHp_Max)
+            if (kvu.Key.Equals("MaxHealth") && txtHp_Max && sliHp)
             {
                 txtHp_Max.text = kvu.Value.ToString();
-                maxHealth = txtHp_Max.text;
+                txtHpMaxByScreen.text = kvu.Value.ToString();
+                maxHealth = int.Parse(kvu.Value.ToString());
+
             }
         }
 
@@ -98,24 +110,26 @@ namespace View
             if (kvu.Key.Equals("Magic") && txtMp_Cur)
             {
                 txtMp_Cur.text = kvu.Value.ToString();
+                txtMpByScreen.text = kvu.Value.ToString();
+                magic = int.Parse(kvu.Value.ToString());
 
-                txtMpByScreen.text = kvu.Value.ToString() + "/" + maxMagic;
-                sliMp.value = float.Parse(kvu.Value.ToString()) / float.Parse(maxMagic);
+                sliMp.value = (float)magic / maxMagic;
             }
         }
 
         private void DisplayMaxMp(KeyValueUpdate kvu)
         {
-            if (kvu.Key.Equals("MaxMagic") && txtMp_Max)
+            if (kvu.Key.Equals("MaxMagic") && txtMp_Max && sliMp)
             {
                 txtMp_Max.text = kvu.Value.ToString();
-                maxMagic = txtMp_Max.text;
+                txtMpMaxByScreen.text = kvu.Value.ToString();
+                maxMagic = int.Parse(txtMp_Max.text);
             }
         }
 
         private void DisplayATK(KeyValueUpdate kvu)
         {
-            if (kvu.Key.Equals("MaxAttack") && txtATK)
+            if (kvu.Key.Equals("Attack") && txtATK)
             {
                 txtATK.text = kvu.Value.ToString();
             }
@@ -130,20 +144,24 @@ namespace View
 
         private void DisplayExp(KeyValueUpdate kvu)
         {
-            if(kvu.Key.Equals("Experience") && txtExp_Cur)
+            if(kvu.Key.Equals("Experience") && txtExp_Cur && sliExp )
             {
-                txtExp_Cur.text = kvu.Value.ToString() + "/" + maxExp;
+                txtExp_Cur.text = kvu.Value.ToString();
+                exp = int.Parse(kvu.Value.ToString());
 
-                sliMp.value =  float.Parse(kvu.Value.ToString()) / float.Parse(maxMagic) ;
+                sliExp.value = (float)exp / maxExp;
             }
         }
 
         private void DisplayMaxExp(KeyValueUpdate kvu)
         {
-            if (kvu.Key.Equals("MaxExperience") && sliExp)
+            if (kvu.Key.Equals("MaxExperience") && txtExp_Max)
             {
-                maxExp = kvu.Value.ToString();
+                txtExp_Max.text = kvu.Value.ToString();
+                maxExp = int.Parse(kvu.Value.ToString());
+
             }
+
         }
 
         private void DisplayLevel(KeyValueUpdate kvu)
@@ -152,6 +170,7 @@ namespace View
             {
                 txtLevel.text = kvu.Value.ToString();
                 txtLevelByScreen.text = kvu.Value.ToString();
+
             }
         }
 
@@ -159,7 +178,15 @@ namespace View
         {
             if(kvu.Key.Equals("Energy") && txtEnergy_Cur)
             {
-                txtEnergy_Cur.text = kvu.Value.ToString()+ "/" + float.Parse(maxEnergy);
+                txtEnergy_Cur.text = kvu.Value.ToString();
+            }
+        }
+
+        private void DisplayMaxEnergy(KeyValueUpdate kvu)
+        {
+            if (kvu.Key.Equals("MaxEnergy") && txtEnergy_Max)
+            {
+                txtEnergy_Max.text = kvu.Value.ToString();
             }
         }
 

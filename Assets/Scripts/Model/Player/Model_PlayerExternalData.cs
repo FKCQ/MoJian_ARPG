@@ -141,12 +141,14 @@ namespace Model
 
         public Model_PlayerExternalData() { }
 
-        public Model_PlayerExternalData(int level,int exp,int energy, int gold,int diamond,int maxExp) {
+        public Model_PlayerExternalData(int level,int exp,int energy, int gold,int diamond,int maxExp,int maxEnergy) {
             _level = level;
             _experience = exp;
             _energy = energy;
             _gold = gold;
             _diamond = diamond;
+            _maxEnergy = maxEnergy;
+            _maxExperience = maxExp;
         }
     }
 

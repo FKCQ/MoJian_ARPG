@@ -16,6 +16,7 @@ namespace Model {
             float maxMagic, float ATKByProp, float DEFByProp)
         : base(health, magic, ATK, DEF, maxHealth, maxMagic, ATKByProp, DEFByProp)
         {
+
             if (_instance == null)
             {
                 _instance = this;
@@ -152,12 +153,15 @@ namespace Model {
 
         public void DisplayAllOriginalValue()
         {
+            MaxHealth = MaxHealth;
+            MaxMagic = MaxMagic;
             Health = Health;
             Magic = Magic;
             Attack = Attack;
             Defence = Defence;
             DefenceByPro = DefenceByPro;
             AttackByPro = AttackByPro;
+
         }
     }
 }

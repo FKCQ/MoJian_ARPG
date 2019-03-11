@@ -12,8 +12,8 @@ namespace Model {
 
         public Model_PlayerExternalDataProxy() { }
 
-        public Model_PlayerExternalDataProxy(int level, int exp, int energy, int gold, int diamond, int maxExp)
-            : base(level, exp, energy, gold, diamond, maxExp)
+        public Model_PlayerExternalDataProxy(int level, int exp, int energy, int gold, int diamond, int maxExp,int maxEnergy)
+            : base(level,exp,energy,gold,diamond,maxExp,maxEnergy)
 
         {
             if (_instance == null)
@@ -134,11 +134,13 @@ namespace Model {
 
         public void DisplayAllOriginalValue()
         {
-            Experience = Experience;
             MaxExperience = MaxExperience;
+            MaxEnergy = MaxEnergy;
+            Experience = Experience;
             Level = Level;
             Gold = Gold;
             Diamond = Diamond;
+            Energy = Energy;
         }
     }
 }

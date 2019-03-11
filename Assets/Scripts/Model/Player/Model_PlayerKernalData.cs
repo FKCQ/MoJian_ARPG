@@ -161,8 +161,11 @@ namespace Model
             _attack = attack;
             _defence = defence;
             _maxHealth = maxHealth;
+            _maxMagic = maxMagic;
             _attackByPro = attackByPro;
             _defenceByPro = defenceByPro;
+
+            
         }
     }
 }

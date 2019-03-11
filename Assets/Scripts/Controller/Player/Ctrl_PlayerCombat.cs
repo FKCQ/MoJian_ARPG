@@ -2,19 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerCombat : MonoBehaviour {
+public class Ctrl_PlayerCombat : MonoBehaviour {
     private Animator anim;
 	// Use this for initialization
 	void Start () {
         anim = GetComponent<Animator>();
 	}
 	
-	// Update is called once per frame
-	void Update () {
-        if (Input.GetKeyDown(KeyCode.K))
-            CommontAtk();
-	}
-
     /// <summary>
     /// 普通攻击
     /// </summary>
@@ -26,5 +20,18 @@ public class PlayerCombat : MonoBehaviour {
         anim.SetTrigger("CommonAtk");
     }
 
+    public void Skill1()
+    {
+        
+    }
 
+    public void Skill2()
+    {
+
+    }
+
+    public void Skill3()
+    {
+
+    }
 }

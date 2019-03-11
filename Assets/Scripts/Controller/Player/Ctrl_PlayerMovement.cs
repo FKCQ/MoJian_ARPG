@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour {
+public class Ctrl_PlayerMovement : MonoBehaviour {
     public float rotateSpeed = 5f;              //旋转速度
     public float speed = 5f;                    //移动速度
 
