@@ -43,6 +43,13 @@ namespace Global
         Cike
     }
 
+    public enum ItemType
+    {
+        Prop,
+        Equipment
+    }
+
+
     #endregion
 
     #region 项目的委托

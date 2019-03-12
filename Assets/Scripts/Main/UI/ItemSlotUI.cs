@@ -20,7 +20,7 @@ public class ItemSlotUI : MonoBehaviour {
     public void SetSprite(Item item)
     {
         Sprite.enabled = true;
-        Sprite.spriteName = item.iconName;
+        Sprite.spriteName = item.IconName;
         
     }
 }
