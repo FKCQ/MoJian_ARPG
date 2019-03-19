@@ -45,6 +45,7 @@ namespace View
         private int maxExp;
         private void Awake()
         {
+            Debug.Log("aaa");
             Model_PlayerKernalData.playerKernalEvent += DisplayMaxHp;
             Model_PlayerKernalData.playerKernalEvent += DisplayHp;
             Model_PlayerKernalData.playerKernalEvent += DisplayMaxMp;
@@ -63,6 +64,7 @@ namespace View
 
         private void Start()
         {
+            Debug.Log("aa");
             Model_PlayerExternalDataProxy.GetInstance().DisplayAllOriginalValue();
             Model_PlayerKernalDataProxy.GetInstance().DisplayAllOriginalValue();
 

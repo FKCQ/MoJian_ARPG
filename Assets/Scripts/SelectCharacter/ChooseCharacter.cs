@@ -24,10 +24,10 @@ public class ChooseCharacter : MonoBehaviour {
     private string hero2Name;               //英雄2号名称
 
     void Start () {
-        character1 = transform.Find("Container/0").GetComponent<UIToggle>();
-        character2 = transform.Find("Container/1").GetComponent<UIToggle>();
-        head = transform.Find("Selected/Back/Head").GetComponent<UISprite>();
-        heroName = transform.Find("Selected/Label").GetComponent<UILabel>();
+        character1 = transform.Find("Container/Container/0").GetComponent<UIToggle>();
+        character2 = transform.Find("Container/Container/1").GetComponent<UIToggle>();
+        head = transform.Find("Container/Selected/Back/Head").GetComponent<UISprite>();
+        heroName = transform.Find("Container/Selected/Label").GetComponent<UILabel>();
         hero1Name = "刺客";
         hero2Name = "狂战士";
     }
