@@ -14,6 +14,8 @@ Controller：处理与数据视图以外的层
 ### 设计模式：
 代理模式、观察者模式、单例模式
 
+### 游戏截图
+
 ![游戏截图](https://github.com/FKCQ/MoJian_ARPG/blob/master/Screenshot/CreateCharacter.png "游戏截图")
 ![游戏截图](https://github.com/FKCQ/MoJian_ARPG/blob/master/Screenshot/Chapter.png "游戏截图")
 ![游戏截图](https://github.com/FKCQ/MoJian_ARPG/blob/master/Screenshot/Skill.png "游戏截图")
